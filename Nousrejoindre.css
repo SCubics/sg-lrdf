@@ -1,0 +1,96 @@
+/* 
+     Ressource :
+
+     Logo Serveur https://cdn.discordapp.com/icons/1010354544909238302/1524d87116560a9484ef102ff654e83f.jpg no-repeat;
+
+     Logo Discord  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydqzCENk7s6ptCQuY0AvFVAbEEG-YvXp4rA&usqp=CAU no-repeat;
+   
+     Logo Disboard https://pbs.twimg.com/profile_images/1109034662226067456/j1kkj4Xa_400x400.jpg no-repeat;
+
+     Fond https://media.discordapp.net/attachments/1012470346504470548/1026079945895718982/797f6304c2d6de1ebbf7677c30a2efcf.jpg?width=729&height=657
+*/
+
+/* Fond */
+html{
+     background-color: rgb(0, 174, 255);
+     background-image: url("https://media.discordapp.net/attachments/1012470346504470548/1026079945895718982/797f6304c2d6de1ebbf7677c30a2efcf.jpg?width=729&height=657");
+     background-repeat: no-repeat;
+     background-size: cover;
+ }
+ 
+/* Taille de la police */
+
+li{font-size: 50px;}
+
+.D3{font-size: 50px;}
+
+
+/* Espace du haut */
+
+nav{padding-bottom: 50px;}
+
+.D1{padding-top: 100%;}
+
+/* Espace de gauche */
+
+.D1{padding-left: 300%;}
+
+.D2{padding-left: 295%;}
+
+.D3{padding-left: 330%;}
+
+/* Boutton */
+
+ul.D{
+     list-style-type: none;
+     display: inline-block;
+     padding-left: 50px
+ }
+ 
+ul.D a{
+     font-style: bold;
+     padding: 10px;
+     text-decoration: none;
+ }
+
+li.D1 a{
+     background-color: black;
+     color: purple;
+ }
+ 
+li.D1:hover a{
+     background-color: white;
+     color: blue;
+ }
+
+ 
+li.D2 a{
+     background-color: black;
+     color: blue;
+ }
+ 
+li.D2:hover a{
+     background-color: white;
+     color: purple;
+ }
+
+/* Menu */
+    
+nav ul li{
+     list-style-type: none;
+     display: inline-block;
+     padding-left: 50px
+ }
+ 
+ nav ul li a{
+     background-color: rgb(20, 20, 20);
+     color: white;
+     font-style: bold;
+     padding: 10px;
+     text-decoration: none;
+ }
+ 
+ nav ul li:hover a{
+     background-color: white;
+     color: blue;
+ }

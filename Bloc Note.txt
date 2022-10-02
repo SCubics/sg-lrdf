@@ -1,0 +1,43 @@
+Nous rejoindre :
+Discord : https://discord.gg/4mgNA86hBm
+Disboard : https://disboard.org/fr/server/1010354544909238302
+Discord Intégration :
+<discord>
+    <!-- Intégration Discord -->
+    <iframe src="https://discord.com/widget?id=1010354544909238302&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+</discord>
+fond : https://media.discordapp.net/attachments/1012470346504470548/1026079945895718982/797f6304c2d6de1ebbf7677c30a2efcf.jpg?width=729&height=657
+Contexte :
+ Nous voilà plus de 1300 ans après la Grande Guerre de Succession des Ailes de Sable. Les reines se sont succédées et les royaumes ont vécu en paix, jusqu'à ce que la reine Cactus des Ailes de Sable débute son règne..
+Des alliances se sont créées et une guerre a commencé. Il y a eu de nombreux morts, et même lorsque Cactus fut assassinée, la guerre a continué.
+Tout le monde le pensait. Cet enfer n'allait Nouveaux Horizons : RP LRDF FR **
+Nous voilà plus de 1300 ans après la Grande Guerre de Succession des Ailes de Sable. Les reines se sont succédées et les royaumes ont vécu en paix, jusqu'à ce que la reine Cactus des Ailes de Sable débute son règne..
+Des alliances se sont créées et une guerre a commencé. Il y a eu de nombreux morts, et même lorsque Cactus fut assassinée, la guerre a continué.
+Tout le monde le pensait. Cet enfer n'allait jamais s'arrêter. Et pourtant.. Une prophétie a été livrée.
+
+*Quand les trois lunes éclaireront les cieux,
+Quand la nuit ne sera plus qu'un grand ciel bleu,
+Quand les sept œufs des sept clans écloreront,
+L'espoir de la paix reviendra des fonds.
+
+L'Aile de Boue sera le plus fort,
+Protégé de toute forme de feu.
+L'Aile de Sable sera le plus rusé,
+Aux techniques qu'on ne peut pas compter.
+
+L'Aile du Ciel sera le plus indépendant,
+Au jet de flammes très puissant.
+L'Aile de Mer sera le plus gentil,
+Et voudra toujours réconforter ses amis.
+
+L'Aile de Glace sera le plus costaud,
+Et froid des écailles jusqu'aux os.
+L'Aile de Pluie sera le plus furtif,
+Invisible en plein jour comme la nuit.
+
+Et L'Aile de Nuit sera le plus mystérieux,
+Avec des pouvoirs surpuissants.
+Solitaire et indépendant,
+Aimé de tous ses parents.*
+
+Vas-tu te joindre à la bataille et aider Pyrrhia à vivre enfin en paix ?
